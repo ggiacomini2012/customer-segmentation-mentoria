@@ -22,7 +22,9 @@ This repository contains the full data pipeline, from raw data ingestion to insi
 │   └── visualization.py# Plotting functions
 ├── reports/            # Generated reports and figures
 │   ├── figures/        # PNG exports of visualizations
-│   └── gallery.md      # Gallery of insights
+│   │   └── gallery.md  # Gallery of insights
+│   ├── project_overview.md # Project context and approach
+│   └── insights_conclusoes.md # Detailed analysis conclusions
 └── requirements.txt    # Project dependencies
 ```
 
